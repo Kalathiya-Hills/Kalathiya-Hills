@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-savani&show_icons=true&locale=en&layout=compact" alt="Hills-kalathiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalathiya-Hills&show_icons=true&locale=en" alt="om-savani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalathiya-Hills&show_icons=true&locale=en" alt="Kalathiya-Hills" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalathiya-Hills&" alt="om-savani" /></p>
 
